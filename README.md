@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Engineering student who enjoys solving problems with code and building meaningful tech solutions.  
-I love working on projects that combine AI and web technologies to make real-world impact.
+I am a Computer Engineering student with strong knowledge in programming, software development, and problem-solving. I have gained hands-on experience in areas like Machine Learning and Web Development through projects and internships. I am a quick learner with good teamwork and communication skills, aiming to contribute effectively while growing in a professional environment
 
 - 🌱 **Currently Learning**: Data Structures & Algorithms, Cloud Computing  
 - 🎯 **Goal**: Seeking exciting **internship** or **job opportunities** to grow my skills and contribute  
@@ -21,7 +20,10 @@ I love working on projects that combine AI and web technologies to make real-wor
 ## 💼 Projects
 
 ### 🔹 AI-Powered Healthcare Chatbot  
-An intelligent chatbot that responds to health-related queries using voice input, supports multiple languages (Hindi, English, Marathi), and is connected to the Akash Network database.
+• Designed and developed a voice-enabled healthcare chatbot with support for Hindi, English, and Marathi. Implemented speech recognition and text-to-speech for seamless interaction. Integrated Akash decentralized cloud for secure, real-time health data access.
+
+### 🔹 Healthcare Waste Management System  
+• Developed a web-based system to monitor and manage biomedical waste in healthcare facilities. Enabled waste tracking, categorization, and proper disposal scheduling. Improved compliance with health and environmental regulations through digital recordkeeping and real-time updates.
 
 ---
 

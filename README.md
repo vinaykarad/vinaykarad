@@ -29,7 +29,7 @@ I am a Computer Engineering student with strong knowledge in programming, softwa
 
 ## 📫 Contact Me
 
-- 📧 Email: vinaykarad001@gmail.com  
+- 📧 Email: vinaykarad007@gmail.com  
 - 🔗 [LinkedIn](http://linkedin.com/in/vinay-karad-8b5b77344)
 
 ---

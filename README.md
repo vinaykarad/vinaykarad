@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 
-I am a Computer Engineering student with strong knowledge in programming, software development, and problem-solving. I have gained hands-on experience in areas like Machine Learning and Web Development through projects and internships. I am a quick learner with good teamwork and communication skills, aiming to contribute effectively while growing in a professional environment
+I am a Computer Engineering student with strong knowledge in programming, software development, and problem-solving. I have gained hands-on experience in areas like Machine Learning and Web Development through projects and internships. I am a quick learner with good teamwork and communication skills, aiming to contribute effectively while growing in a professional environment.
 
 - 🌱 **Currently Learning**: Data Structures & Algorithms, Cloud Computing  
 - 🎯 **Goal**: Seeking exciting **internship** or **job opportunities** to grow my skills and contribute  
 - 🛠️ **Skills**:  
-  `Java` | `C++` | `Web Development` | `HTML/CSS/JS` | `DSA`  
+  `Java` | `C++` | `Web Development` | `HTML/CSS/JS` | `DSA`
 
 ---
 
@@ -29,10 +29,24 @@ I am a Computer Engineering student with strong knowledge in programming, softwa
 
 ## 📫 Contact Me
 
-- 📧 Email: vinaykarad007@gmail.com  
-- 🔗 [LinkedIn](http://linkedin.com/in/vinay-karad-8b5b77344)
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
 
----
+<a href="https://www.linkedin.com/in/vinay-karad-8b5b77344/" target="_blank" style="text-decoration:none;">
+  <button style="padding:10px 20px; background:#0A66C2; color:white; border:none; border-radius:6px; cursor:pointer;">
+    🔗 LinkedIn
+  </button>
+</a>
 
-![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinaykarad&show_icons=true&theme=radical)
+<a href="https://vinaykarad.com" target="_blank" style="text-decoration:none;">
+  <button style="padding:10px 20px; background:#10B981; color:white; border:none; border-radius:6px; cursor:pointer;">
+    🌐 Portfolio
+  </button>
+</a>
 
+<a href="https://github.com/vinaykarad" target="_blank" style="text-decoration:none;">
+  <button style="padding:10px 20px; background:#333; color:white; border:none; border-radius:6px; cursor:pointer;">
+    🐙 GitHub
+  </button>
+</a>
+
+</div>

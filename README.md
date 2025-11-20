@@ -1,52 +1,145 @@
-# 👋 Hi there, I'm Vinay Karad
+import { FaGithub, FaLinkedin } from "react-icons/fa";
+import { FaLayerGroup } from "react-icons/fa6";
+import { FaInstagram } from "react-icons/fa";
 
-🎓 **Computer Engineering Student**  
-💻 Passionate about **Java**, **Web Development**, **C++**, and **DSA**  
-🤖 Currently building an **AI-powered Healthcare Chatbot**
+export default function PortfolioSection() {
+  return (
+    <div className="min-h-screen bg-gray-900 text-white px-6 py-12">
 
----
+      {/* Heading */}
+      <h1 className="text-4xl font-bold mb-4">
+        👋 Hi there, I'm <span className="text-blue-400">Vinay Karad</span>
+      </h1>
 
-## 🚀 About Me
+      <p className="text-lg text-gray-300 mb-6">
+        🎓 <b>Computer Engineering Student</b>  
+        <br />
+        💻 Passionate about <b>Java</b>, <b>Web Development</b>, <b>C++</b>, and <b>DSA</b>  
+        <br />
+        🤖 Currently building an <b>AI-powered Healthcare Chatbot</b>
+      </p>
 
-I am a Computer Engineering student with strong knowledge in programming, software development, and problem-solving. I have gained hands-on experience in areas like Machine Learning and Web Development through projects and internships. I am a quick learner with good teamwork and communication skills, aiming to contribute effectively while growing in a professional environment.
+      <hr className="border-gray-700 my-6" />
 
-- 🌱 **Currently Learning**: Data Structures & Algorithms, Cloud Computing  
-- 🎯 **Goal**: Seeking exciting **internship** or **job opportunities** to grow my skills and contribute  
-- 🛠️ **Skills**:  
-  `Java` | `C++` | `Web Development` | `HTML/CSS/JS` | `DSA`
+      {/* About Me */}
+      <h2 className="text-2xl font-semibold mb-3">🚀 About Me</h2>
 
----
+      <p className="text-gray-300 mb-4">
+        I am a Computer Engineering student with strong knowledge in programming,
+        software development, and problem-solving. I have experience in Machine
+        Learning and Web Development. I am a quick learner with good teamwork and 
+        communication skills.
+      </p>
 
-## 💼 Projects
+      <ul className="text-gray-300 space-y-2 mb-6">
+        <li>🌱 <b>Currently Learning</b>: Data Structures & Algorithms, Cloud Computing</li>
+        <li>🎯 <b>Goal</b>: Seeking exciting internship and job opportunities</li>
+        <li>
+          🛠️ <b>Skills</b>:
+          <code className="ml-2 bg-gray-800 px-2 py-1 rounded">Java</code>{" "}
+          <code className="bg-gray-800 px-2 py-1 rounded">C++</code>{" "}
+          <code className="bg-gray-800 px-2 py-1 rounded">Web Development</code>{" "}
+          <code className="bg-gray-800 px-2 py-1 rounded">HTML/CSS/JS</code>{" "}
+          <code className="bg-gray-800 px-2 py-1 rounded">DSA</code>
+        </li>
+      </ul>
 
-### 🔹 AI-Powered Healthcare Chatbot  
-• Designed and developed a voice-enabled healthcare chatbot with support for Hindi, English, and Marathi. Implemented speech recognition and text-to-speech for seamless interaction. Integrated Akash decentralized cloud for secure, real-time health data access.
+      <hr className="border-gray-700 my-6" />
 
-### 🔹 Healthcare Waste Management System  
-• Developed a web-based system to monitor and manage biomedical waste in healthcare facilities. Enabled waste tracking, categorization, and proper disposal scheduling. Improved compliance with health and environmental regulations through digital recordkeeping and real-time updates.
+      {/* Projects */}
+      <h2 className="text-2xl font-semibold mb-3">💼 Projects</h2>
 
----
+      <h3 className="text-xl font-semibold text-blue-400">
+        🔹 AI-Powered Healthcare Chatbot
+      </h3>
+      <p className="text-gray-300 mb-4">
+        Built a voice-enabled chatbot supporting Hindi, English, and Marathi.
+        Integrated speech recognition, TTS, and Akash decentralized cloud for secure health data.
+      </p>
 
-## 📫 Contact Me
+      <h3 className="text-xl font-semibold text-blue-400">
+        🔹 Healthcare Waste Management System
+      </h3>
+      <p className="text-gray-300 mb-6">
+        Developed a web platform to track biomedical waste disposal with real-time digital records.
+      </p>
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+      <hr className="border-gray-700 my-6" />
 
-<a href="https://www.linkedin.com/in/vinay-karad-8b5b77344/" target="_blank" style="text-decoration:none;">
-  <button style="padding:10px 20px; background:#0A66C2; color:white; border:none; border-radius:6px; cursor:pointer;">
-    🔗 LinkedIn
-  </button>
-</a>
+      {/* Contact Me */}
+      <h2 className="text-2xl font-semibold mb-4">📫 Contact Me</h2>
 
-<a href="https://vinaykarad.com" target="_blank" style="text-decoration:none;">
-  <button style="padding:10px 20px; background:#10B981; color:white; border:none; border-radius:6px; cursor:pointer;">
-    🌐 Portfolio
-  </button>
-</a>
+      {/* BUTTONS */}
+      <div className="flex gap-4 mb-10">
 
-<a href="https://github.com/vinaykarad" target="_blank" style="text-decoration:none;">
-  <button style="padding:10px 20px; background:#333; color:white; border:none; border-radius:6px; cursor:pointer;">
-    🐙 GitHub
-  </button>
-</a>
+        {/* LinkedIn */}
+        <a
+          href="https://www.linkedin.com/in/vinay-karad-8b5b77344/"
+          target="_blank"
+          className="flex items-center gap-2 bg-blue-600 px-6 py-3 rounded-md 
+                     text-white font-semibold tracking-widest hover:bg-blue-700 transition"
+        >
+          <FaLinkedin className="text-xl" />
+          LINKEDIN
+        </a>
 
-</div>
+        {/* Portfolio */}
+        <a
+          href="https://vinaykarad.com"
+          target="_blank"
+          className="flex items-center gap-2 bg-orange-500 px-6 py-3 rounded-md 
+                     text-white font-semibold tracking-widest hover:bg-orange-600 transition"
+        >
+          <FaLayerGroup className="text-xl" />
+          PORTFOLIO
+        </a>
+
+        {/* GitHub */}
+        <a
+          href="https://github.com/vinaykarad"
+          target="_blank"
+          className="flex items-center gap-2 bg-purple-600 px-6 py-3 rounded-md 
+                     text-white font-semibold tracking-widest hover:bg-purple-700 transition"
+        >
+          <FaGithub className="text-xl" />
+          GITHUB
+        </a>
+
+      </div>
+
+      {/* Round Social Icons */}
+      <div className="flex gap-6 items-center">
+
+        <a
+          href="https://github.com/vinaykarad"
+          target="_blank"
+          className="w-16 h-16 rounded-full bg-purple-500 flex items-center justify-center 
+                     text-white text-3xl hover:scale-110 transition transform"
+        >
+          <FaGithub />
+        </a>
+
+        <a
+          href="https://www.linkedin.com/in/vinay-karad-8b5b77344/"
+          target="_blank"
+          className="w-16 h-16 rounded-full bg-blue-600 flex items-center justify-center 
+                     text-white text-3xl hover:scale-110 transition transform"
+        >
+          <FaLinkedin />
+        </a>
+
+        <a
+          href="https://instagram.com"
+          target="_blank"
+          className="w-16 h-16 rounded-full bg-pink-500 flex items-center justify-center 
+                     text-white text-3xl hover:scale-110 transition transform"
+        >
+          <FaInstagram />
+        </a>
+
+      </div>
+
+    </div>
+  );
+}
+

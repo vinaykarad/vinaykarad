@@ -1,52 +1,27 @@
-# 👋 Hi there, I'm Vinay Karad
+# 💫 About Me:
+👋 Hi, I'm Vinay<br><br>Computer Engineering Student | Web Developer & AI Enthusiast<br><br>I'm passionate about building practical and scalable software solutions. I enjoy problem-solving, exploring new technologies, and working on real-world projects that make an impact.<br><br>🚀 Interests & Focus<br><br>Web Development<br><br>AI & Machine Learning<br><br>Cybersecurity & Networking<br><br>Frontend & Backend Development<br><br>💻 Skills & Technologies<br><br>Languages: Python, C++, JavaScript, Java<br><br>Web: HTML, CSS, Bootstrap, React (Learning), WordPress<br><br>Databases: MySQL, SQLite<br><br>Tools & Platforms: Git, GitHub, Linux, VS Code, Postman<br><br>🧩 Current Projects<br><br>AI-powered Healthcare Chatbot<br><br>Healthcare Waste Management System<br><br>Improving DSA and Networking Concepts<br><br>📫 Connect With Me<br><br>Email: vinaykarad007@gmail.com<br><br>LinkedIn: https://www.linkedin.com/in/vinay-karad-8b5b77344/<br><br>Portfolio: vinaykarad.com<br><br>💡 Fun Fact<br><br>I love learning new tech, improving my skills every day, and building things that solve real problems.
 
-🎓 **Computer Engineering Student**  
-💻 Passionate about **Java**, **Web Development**, **C++**, and **DSA**  
-🤖 Currently building an **AI-powered Healthcare Chatbot**
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vinay-karad-8b5b77344/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinaykarad007@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vinaykarad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vinaykarad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykarad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I am a Computer Engineering student with strong knowledge in programming, software development, and problem-solving. I have gained hands-on experience in areas like Machine Learning and Web Development through projects and internships. I am a quick learner with good teamwork and communication skills, aiming to contribute effectively while growing in a professional environment.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vinaykarad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 **Currently Learning**: Data Structures & Algorithms, Cloud Computing  
-- 🎯 **Goal**: Seeking exciting **internship** or **job opportunities** to grow my skills and contribute  
-- 🛠️ **Skills**:  
-  `Java` | `C++` | `Web Development` | `HTML/CSS/JS` | `DSA`
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 💼 Projects
-
-### 🔹 AI-Powered Healthcare Chatbot  
-• Designed and developed a voice-enabled healthcare chatbot with support for Hindi, English, and Marathi. Implemented speech recognition and text-to-speech for seamless interaction. Integrated Akash decentralized cloud for secure, real-time health data access.
-
-### 🔹 Healthcare Waste Management System  
-• Developed a web-based system to monitor and manage biomedical waste in healthcare facilities. Enabled waste tracking, categorization, and proper disposal scheduling. Improved compliance with health and environmental regulations through digital recordkeeping and real-time updates.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=vinaykarad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=vinaykarad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📫 Contact Me
-
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-
-<a href="https://www.linkedin.com/in/vinay-karad-8b5b77344/" target="_blank" style="text-decoration:none;">
-  <button style="padding:10px 20px; background:#0A66C2; color:white; border:none; border-radius:6px; cursor:pointer;">
-    🔗 LinkedIn
-  </button>
-</a>
-
-<a href="https://vinaykarad.com" target="_blank" style="text-decoration:none;">
-  <button style="padding:10px 20px; background:#10B981; color:white; border:none; border-radius:6px; cursor:pointer;">
-    🌐 Portfolio
-  </button>
-</a>
-
-<a href="https://github.com/vinaykarad" target="_blank" style="text-decoration:none;">
-  <button style="padding:10px 20px; background:#333; color:white; border:none; border-radius:6px; cursor:pointer;">
-    🐙 GitHub
-  </button>
-</a>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
